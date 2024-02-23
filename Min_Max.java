@@ -21,7 +21,7 @@ public class Min_Max{
         scanner.close();
     }
 
-    public static Pair findMinMax(int[] arr, int left, int right) {dd
+    public static Pair findMinMax(int[] arr, int left, int right) {
         if (left == right) {
             return new Pair(arr[left], arr[left]);
         } else if (right - left == 1) {
