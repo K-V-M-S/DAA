@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ms {
+public class MergeSort {
 
     public static void ms(int[] a, int l, int r){
         if(l < r){
