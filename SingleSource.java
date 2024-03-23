@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DijkstraAlgorithm {
+public class SingleSource {
    private static final int MAX = 10005;
    private static final int INF = 1000000000;
 
